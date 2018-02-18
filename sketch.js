@@ -44,6 +44,7 @@ function setup() {
   printButton = new Button(20,bstart+380,skip,skip,230,230,230);
 
 	fill(255);
+	noStroke();
 	rect(0,0,700,700);
 
 	textFont('Avenir');
