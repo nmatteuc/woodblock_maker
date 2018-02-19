@@ -7,7 +7,7 @@ body {
   display: flex;
 
   /* This centers our sketch horizontally. */
-  justify-content: space-around;
+  justify-content: start;
 
   /* This centers our sketch vertically. */
   align-items: center;
