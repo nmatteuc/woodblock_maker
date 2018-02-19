@@ -160,7 +160,7 @@ if (printButton.MouseIsOver()){
 	rect(width-100,0,width-100,height);
 	rect(0,height-100,width,height);
 
-	saveCanvas('Image.jpg');
+	save('Image.png');
 
 	fill(0);
 	textSize(12);
