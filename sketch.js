@@ -50,9 +50,9 @@ function setup() {
 	textFont('Avenir');
 
 	fill(0);
-	textSize(10);
+	textSize(12);
 	textAlign(CENTER);
-	text("noahmatteucci.com", width/2,height-50);
+	text("noahmatteucci.com", width/2,80);
 	textSize(18);
 	text("Pick a color:",18,95,60,60);
 	textSize(38);
@@ -163,10 +163,10 @@ if (printButton.MouseIsOver()){
 	saveCanvas('Image.jpg');
 
 	fill(0);
-	textSize(10);
+	textSize(12);
 	textAlign(CENTER);
 	textStyle(NORMAL);
-	text("noahmatteucci.com", width/2,height-50);
+	text("noahmatteucci.com", width/2,80);
 	textSize(18);
 	text("Pick a color:",18,95,60,60);
 	textSize(38);
