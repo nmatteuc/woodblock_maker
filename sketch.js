@@ -56,7 +56,7 @@ function setup() {
 	textSize(18);
 	text("Pick a color:",18,95,60,60);
 	textSize(38);
-	text("WOODBLOCK PRINT CREATOR",width/2,60);
+	text("WOODBLOCK PIXELS",width/2,60);
 
 }
 
@@ -170,7 +170,7 @@ if (printButton.MouseIsOver()){
 	textSize(18);
 	text("Pick a color:",18,95,60,60);
 	textSize(38);
-	text("WOODBLOCK PRINT CREATOR",width/2,60);
+	text("WOODBLOCK PIXELS",width/2,60);
 }
 
 }
